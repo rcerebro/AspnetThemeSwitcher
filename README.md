@@ -23,3 +23,6 @@ protected void Application_PreRequestHandlerExecute(object sender, EventArgs e) 
 <dx:ThemeSelector runat="server" ID="ts2" PopupAlign="Left" />
 
 Starting with v17.2 we have changed our Theme Selector implementation. Now, this user control is placed to ASPxPanel and is mobile friendly. A new sample can be found in the following thread: How to implement a Theme Selector control similar to DevExpress Demo
+
+Credtis: Team DevExpress
+Source: https://github.com/DevExpress-Examples/how-to-implement-a-theme-selector-control-similar-to-devexpress-demo-t504407
